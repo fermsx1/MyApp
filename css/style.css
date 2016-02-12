@@ -79,6 +79,11 @@ pre
 body #header { width: 100%; background: url("../img/menu-bg.svg") no-repeat center bottom !important; 
 	background-size: 100% !important; height: 76px; position:fixed; z-index:3; 
 	-moz-transition: all 0.5s; -webkit-transition: all 0.5s; -o-transition: all 0.5s; transition: all 0.5s;}
+
+body #header-category { width: 100%;
+	background-size: 100% !important; height: 76px; position:fixed; z-index:3; 
+	-moz-transition: all 0.5s; -webkit-transition: all 0.5s; -o-transition: all 0.5s; transition: all 0.5s;}
+
 body.p-home #header { height: 83px; }
 
 /* body.p-home .header-content { position: absolute; bottom: 40px; width: 100%; text-align: center; height: 80px; } */
